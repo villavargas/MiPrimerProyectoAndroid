@@ -9,11 +9,15 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.luisvilla.miprimerproyectoandroid.MainActivity">
 
+
+
+
+
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/imageView"
-        android:background="@drawable/marcianito_miprimer_proyecto_android"
+        android:background="@drawable/marciano2"
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
@@ -43,6 +47,8 @@
         android:textColor="@android:color/white"
         android:layout_below="@+id/welcome"
         android:layout_centerHorizontal="true" />
+
+
 
 
 </RelativeLayout>
